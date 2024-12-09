@@ -4,11 +4,16 @@
 * [NHANES 2021-2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
 ## Data Used + Links
-* [Demographics](https://wwwn.cdc.gov/Nchs/Nhanes/2021-2022/DEMO_L.htm)
-* [Physical Activity](https://wwwn.cdc.gov/Nchs/Nhanes/2021-2022/PAQ_L.htm)
-* [Blood Pressure](https://wwwn.cdc.gov/Nchs/Nhanes/2021-2022/BPXO_L.htm)
-* [Weight](https://wwwn.cdc.gov/Nchs/Nhanes/2021-2022/WHQ_L.htm)
-* [Vitamin D](https://wwwn.cdc.gov/Nchs/Nhanes/2021-2022/VID_L.htm)
+* Demographics
+   * Location: Demographics Data (of NHANES data link)
+* Physical Activity
+   * Location: Questionnaire Data
+* Blood Pressure
+   * Location: Examination Data
+* Weight
+   * Location: Questionnaire Data
+* Vitamin D
+   * Location: Laboratory Data
 
 ## Project Description
 This project focuses on performing basic inferential statistics on NHANES data using Python. Relationships and differences in health metrics and demographics are explored. 
